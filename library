@@ -1,0 +1,1 @@
+pip install streamlit streamlit-folium folium fastapi uvicorn requests shapely
